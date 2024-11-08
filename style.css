@@ -9,4 +9,6 @@ header{
     font-size: 32px;
     color: red;
 }
-
+section {
+    background: rgb(109, 166, 231);
+}
